@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/storage/*.key
+/storage/logs
+/.env
+/.git
+/.github
+/tests
+.DS_Store
+*.log
